@@ -60,7 +60,6 @@ public class DiancanFragment extends android.support.v4.app.Fragment{
 
 
         return view;
-        E:\Android\Elb
 
     }
     @Override
